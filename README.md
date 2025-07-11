@@ -1,5 +1,6 @@
-<<<<<<< HEAD
-Signal Processing and Simulation Analysis
+=======
+# Monte-Carlo-Parameter-Optimization
+Monte Carlo simulation framework to optimize signal  processing parameters through automated baseline correction, data normalization, and RMSE-based model
 
 This project, developed as part of a computational modeling course, optimizes the fit between experimental and simulated signals in calcium dynamics modeling. Using the Li-Rinzel model, we applied baseline correction, normalization, Monte Carlo simulations, and Principal Component Analysis (PCA) to identify parameters (v1, v2, v3) that minimize oscillation frequency differences and RMSE.
 
@@ -48,7 +49,5 @@ Li, Y. X., & Rinzel, J. (1994). Equations for InsP3 receptor-mediated [Ca2+]i os
 
 License
 MIT License. See LICENSE for details.
-=======
-# Monte-Carlo-Parameter-Optimization
-Monte Carlo simulation framework to optimize signal  processing parameters through automated baseline correction, data normalization, and RMSE-based model
+
 >>>>>>> e99414711ec491c8402109cb8cc3de697e2db2f0
