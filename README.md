@@ -1,4 +1,3 @@
-=======
 # Monte-Carlo-Parameter-Optimization
 Monte Carlo simulation framework to optimize signal  processing parameters through automated baseline correction, data normalization, and RMSE-based model
 
