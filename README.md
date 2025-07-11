@@ -22,7 +22,7 @@ Requirements
 - Libraries: pandas, numpy, matplotlib
 
 Running the Project
-- Clone the repository:git clone https://github.com/your-username/signal-processing-simulation.git
+- Clone the repository:git clone https://github.com/Saket-Kash11/Monte-Carlo-Parameter-Optimization.git
 - Install dependencies:pip install -r requirements.txt
 - Run the main analysis: Hyperparameter_optimisation.ipynb
 
